@@ -10,7 +10,7 @@ Plant diseases can significantly impact crop yield and quality. Early detection 
 
 ---
 
-## 🧠Dataset & Model
+## Dataset & Model
 
 - **Dataset**: The model is trained on the [PlantVillage Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset), which contains over 50,000 images of healthy and diseased leaves across 38 classes.
 - **Note**: Please download the dataset manually from Kaggle and place it in the `dataset/` folder before training or running the model.
